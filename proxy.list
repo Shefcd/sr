@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,exler
 DOMAIN-KEYWORD,instagram
