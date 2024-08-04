@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: Shef
 # REPO: https://github.com/Shefcd/sr
-# UPDATED: 2023-11-03 07:00:00
+# UPDATED: 2024-08-04 12:30:00
 # DOMAIN-SUFFIX: 50
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -53,4 +53,7 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,formula1.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,exler
 DOMAIN-KEYWORD,instagram
